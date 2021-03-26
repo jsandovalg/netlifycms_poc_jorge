@@ -1,11 +1,10 @@
 ---
-title: Welcome to Flare
-featuredImage: ./img/forest.png
+title: Title Welcome Updated
+featuredImage: uploads/lkmx-logo.png
 ---
-
 <!-- Hero -->
 
-# Welcome to Flare
+# Welcome to Flare Updated
 
 <columns number="2" number-s="1">
 
@@ -17,7 +16,7 @@ With Flare, analysts, designers and stakeholders can prototype a full-blown appl
 
 <block>
 
-![Website wireframe](./img/website.png)
+![Website wireframe](uploads/lkmx-logo.png)
 
 </block>
 
