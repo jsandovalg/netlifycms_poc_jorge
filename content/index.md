@@ -1,6 +1,10 @@
-
+---
+title: Welcome to Flare
+featuredImage: ./img/forest.png
+---
 
 <!-- Hero -->
+
 # Welcome to Flare
 
 <columns number="2" number-s="1">
@@ -18,9 +22,6 @@ With Flare, analysts, designers and stakeholders can prototype a full-blown appl
 </block>
 
 </columns>
-
-
-
 
 <!-- Components -->
 
@@ -68,16 +69,9 @@ Learn more
 
 </columns>
 
-
-
-
-
 ![Forest](./img/forest.jpg)
 
-
-
 Flare is a paradigm that breaks down digital content into layouts, pages, frames and blocks
-
 
 <columns number="3" number-s="1">
 
@@ -96,7 +90,6 @@ Nulla a lectus dictum, iaculis arcu quis, porttitor lorem. Ut ultrices tincidunt
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vestibulum efficitur ultrices. Donec ac sem risus. Praesent vitae lectus velit.
 
 </block>
-
 
 <block class="blue-box">
 
