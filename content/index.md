@@ -1,10 +1,10 @@
 ---
-title: Title Welcome Updated
+title: Hello
 featuredImage: uploads/lkmx-logo.png
 ---
 <!-- Hero -->
 
-# Welcome to Flare Updated
+# Welcome to Flare Updated Version 2
 
 <columns number="2" number-s="1">
 
