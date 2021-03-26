@@ -1,5 +1,5 @@
 ---
-title: Hello
+title: Hello World
 featuredImage: uploads/lkmx-logo.png
 ---
 <!-- Hero -->
