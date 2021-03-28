@@ -1,13 +1,12 @@
 ---
 title: Welcome to Flare
-featuredImage: ./img/forest.png
 ---
 
 <!-- Hero -->
 
-# Welcome to Flare
-
 <columns number="2" number-s="1">
+
+<!-- # Welcome to Flare -->
 
 Flare is a design system for front-end agile engineering.
 
