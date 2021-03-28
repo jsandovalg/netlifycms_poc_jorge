@@ -1,18 +1,9 @@
 ---
-<<<<<<< HEAD
 title: Welcome to Flare
-=======
-title: Hello World
-featuredImage: uploads/lkmx-logo.png
->>>>>>> d8e725898edecc0eb9c105a715b5145fca4b512b
 ---
+
 <!-- Hero -->
 
-<<<<<<< HEAD
-=======
-# Welcome to Flare Updated Version 2
-
->>>>>>> d8e725898edecc0eb9c105a715b5145fca4b512b
 <columns number="2" number-s="1">
 
 <!-- # Welcome to Flare -->
